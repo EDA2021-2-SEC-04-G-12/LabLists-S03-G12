@@ -1,5 +1,12 @@
 #ISIS1225 - Estructura de un proyecto
 
+INTEGRANTES:
+
+Mateo Oviedo Reyes, m.oviedo@uniandes.edu.co, 202028312
+
+Angie Catalina Campos Perilla, ac.campos@uniandes.edu.co, 202115094
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
